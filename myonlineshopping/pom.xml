@@ -14,6 +14,12 @@
 	</properties>
 
 	<dependencies>
+		<!-- Link backend Project -->
+		<dependency>
+			<groupId>com.umang</groupId>
+			<artifactId>myonlineshoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 		<!-- Java EE API -->
 		<dependency>
